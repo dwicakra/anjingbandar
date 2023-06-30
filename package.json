@@ -1,6 +1,22 @@
 {
+  "name": "togel-killer",
+  "description": "Togel Killer adalah sebuah program yang dibuat oleh `ADSB` berbasis javascript. Program ini dirancang menggunakan metode dan perhitungan turun temurun yang telah dipermudah cara penggunaannya.",
+  "version": "0.1.2",
+  "main": "bot.js",
+  "scripts": {
+    "togel": "node bot.js"
+  },
   "dependencies": {
-    "cli-table3": "^0.6.3",
-    "crypto": "^1.0.1"
-  }
+    "cli-table3": "^0.6.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwicakra/anjingbandar.git"
+  },
+  "author": "dwicakra,adsb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dwicakra/anjingbandar/issues"
+  },
+  "homepage": "https://github.com/dwicakra/anjingbandar#readme"
 }
